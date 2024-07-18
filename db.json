@@ -1,0 +1,57 @@
+{
+   "contactsInformation": [
+    {
+       "id": 1,
+       "name": "Leah Bright",
+       "email": "Leahbright034@gmail.com",
+       "Address": "kula lane-343",
+       "Subject": "School Application inquiries",
+       "Message": "Please get me informed about the orientation date"
+    },
+    {
+      "id": 2,
+       "name": "Lenny Cloue",
+       "email": "Lennyclo034@gmail.com",
+       "Address": "Laffe st-566",
+       "Subject": "School Application inquiries",
+       "Message": "Please get me informed about the orientation date"
+    
+    },
+    {
+     "id": 3,
+       "name": "Bravin Ellna",
+       "email": "bravinell@gmail.com",
+       "Address": "kona mbaya st-56",
+       "Subject": "School Application inquiries",
+       "Message": "Please get me informed about the orientation date"
+    },
+{
+   "id": 4,
+       "name": "Eliud etoo",
+       "email": "eliudEtoo37@gmail.com",
+       "Address": "Laffe st-566",
+       "Subject": "School Application inquiries",
+       "Message": "Please get me informed about the orientation date"
+    
+},
+{
+   "id": 5,
+       "name": "Emmy olale",
+       "email": "EmmyOlale@gmail.com",
+       "Address": "Kimathi st-26",
+       "Subject": "School Application inquiries",
+       "Message": "Please get me informed about the orientation date"
+    
+},
+{
+   "id": 6,
+       "name": "Akon sleek",
+       "email": "AkonSleek@gmail.com",
+       "Address": "maryland lane-7",
+       "Subject": "School Application inquiries",
+       "Message": "Please get me informed about the orientation date"
+    
+}
+   ]
+
+}
